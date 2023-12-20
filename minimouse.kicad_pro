@@ -414,10 +414,12 @@
   "libraries": {
     "pinned_footprint_libs": [
       "minimouse",
-      "tp1_lib"
+      "CNCTR CORTEX empr"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "CONNECTEUR ARM",
+      "STM"
     ]
   },
   "meta": {
